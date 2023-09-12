@@ -1,0 +1,1 @@
+# This is Weather web App project using HTML, CSS and JavaScript.
